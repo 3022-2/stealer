@@ -9,7 +9,7 @@ HOW TO USE:
 
 3: send main.py and requirements.txt to someone who has agreed to run it knowing what it will do
 
-4: they then need to run the command: pip install -r requirements.txt (if they are on a unix or mac based machine not all requirements will be installed, they will have to manually install them, pywin32==304 wont be installed on mac or unix but this isnt a problem as the program wont run the code that requires this), they need to run this command in command prompt in the same directory as the requirements.txt file
+4: they then need to run the command: pip install -r requirements.txt (if they are on a POSIX or mac based machine not all requirements will be installed, they will have to manually install them, pywin32==304 wont be installed on mac or unix but this isnt a problem as the program wont run the code that requires this), they need to run this command in command prompt in the same directory as the requirements.txt file
 
 5: tell them to run main.py, this will run the code and this content will be sent to your webhook:
 
@@ -38,7 +38,7 @@ HOW TO USE:
 
 
 
-manual install steps for unix or mac based machines: 
+manual install steps for POSIX or mac based machines: 
 
 pip install requests
 
