@@ -17,7 +17,7 @@ from Crypto.Cipher import AES
 
 
 #set webhook url here
-url = "https://discord.com/api/webhooks/1016053396723204096/rypzOALNqT_NDKBKMFWOfrwr1HKVQ_rEE9q0IwEcFqne_wX0cHz3AExrZFi4lxdggnIl"
+url = ""
 
 if os.name == "nt":
     system = "Windows"
