@@ -1,3 +1,5 @@
+#written by https://github.com/BasedGamer01
+
 import json
 import socket
 import os
