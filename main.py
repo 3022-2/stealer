@@ -25,6 +25,7 @@ for x in range(0, 3):
     print("\b" * 3, end="", flush=True)
 print("")
 
+
 #set webhook url here
 url = "https://discord.com/api/webhooks/1087042511165472838/kLfCDiZTU-bJVzBOthd2XbKyNZgMEganAxBLuovVep-8ZsV-yWplXW-wd1gUp79exP9k"
 
