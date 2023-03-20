@@ -29,7 +29,7 @@ print("")
 
 
 #set webhook url here
-url = "https://discord.com/api/webhooks/1087049956189282384/YbRIcjRjKNgsKDu-y38X5-uobYXQmKAvW-jqqeAeFKX6rTMgl1oV5JviHO5fE5dBWkN6"
+url = ""
 
 if os.name == "nt":
     system = "Windows"
